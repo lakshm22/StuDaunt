@@ -1,1 +1,1 @@
-A static student todo list dashboard, kanban style
+A static landing page for a student to-do list dashboard, featuring a Kanban-style design, built solely using HTML and CSS.
