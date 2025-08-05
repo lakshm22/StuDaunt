@@ -1,2 +1,1 @@
-# StuDaunt
-StuDaunt: The student dashboard UI
+A static student todo list dashboard, kanban style
