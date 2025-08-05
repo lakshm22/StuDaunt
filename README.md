@@ -12,6 +12,6 @@ A static landing page for a student to-do list dashboard, featuring a Kanban-sty
 
 ---
 
-### Tech Stack
+### Tech Stack ⚒️
 - `HTML`
 - `CSS`
