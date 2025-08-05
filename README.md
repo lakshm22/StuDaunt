@@ -3,7 +3,7 @@ A static landing page for a student to-do list dashboard, featuring a Kanban-sty
 
 ---
 
-### Required Updates 🚧
+### Feature Updates 🚧
 - make the UX more eye-pleasing [ ]
 - add the login/ sign up feature [ ]
 - allow user inputs into the kanban [ ]
